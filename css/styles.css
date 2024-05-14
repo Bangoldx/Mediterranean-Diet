@@ -1,0 +1,24 @@
+#topbar {
+    background-color: #7ab2b2;
+    color: #153448;
+    height: 75px;
+    padding-top: 1px;
+    position: relative;
+    font-size: xx-large;
+    text-align: center;
+}
+#list{
+    color: #153448;
+    font-size: x-large;
+}
+input[type="checkbox"]{
+width: large;
+}
+hr {
+    margin: 0;
+}
+body{
+    margin: 0;
+    position: relative;
+    background-color: #948979;
+}
