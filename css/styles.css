@@ -4,18 +4,24 @@
     height: 75px;
     padding-top: 1px;
     position: relative;
-    font-size: xx-large;
+    /* font-size: xx-large; */
     text-align: center;
 }
 #list{
+    padding-top: 0;
+    margin-top: 1%;
+    margin-left: 3%;
     color: #153448;
     font-size: x-large;
+    font-weight: 700;
 }
 input[type="checkbox"]{
 width: large;
 }
 hr {
     margin: 0;
+    border-width: 2px;
+    color: black;
 }
 body{
     margin: 0;
